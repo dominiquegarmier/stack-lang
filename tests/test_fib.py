@@ -4,7 +4,6 @@ from pathlib import Path
 
 from stack.__main__ import run
 
-
 FIB_PATH = Path(__file__).parent.parent / "examples/fib.s"
 
 
