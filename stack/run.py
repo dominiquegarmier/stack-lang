@@ -6,7 +6,6 @@ from stack import interpreter
 from stack import parser
 from stack import tokenizer
 
-
 MAX_EXPR = 2048
 
 
