@@ -9,7 +9,6 @@ from stack.expr import Lambda
 from stack.expr import Literal
 from stack.tokenizer import Token
 
-
 SWAP = Expression("SWAP")
 DUP = Expression("DUP")
 DROP = Expression("DROP")
